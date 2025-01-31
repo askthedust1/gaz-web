@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as s,d as n,w as o,f as c,s as _}from"./index-iNDi3pII.js";const r={name:"TenderPage",data(){return{}}},u={class:"container"};function d(p,i,l,f,m,x){const e=_;return a(),s("div",u,[n(e,{tag:"h2",size:"small"},{default:o(()=>[c("Закупка №111")]),_:1})])}const h=t(r,[["render",d],["__scopeId","data-v-7e55948e"]]);export{h as default};
